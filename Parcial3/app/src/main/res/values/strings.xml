@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">parcial3</string>
+    <string name="email_hint_text">email</string>
+    <string name="password_hint_text">password</string>
+    <string name="login_text">Iniciar sesion</string>
+    <string name="register_text">Registrar</string>
+    <string name="complete_name_hint_text">Nombre</string>
+    <string name="lastname_hint_text">Apellidos</string>
+    <string name="phone_hint_text">Celular</string>
+    <string name="save_button_text">GUARDAR</string>
+    <string name="back_button_text">Volver</string>
+    <string name="description_hint_text">Descripcion</string>
+</resources>
